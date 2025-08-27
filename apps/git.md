@@ -2,7 +2,7 @@
 
 ## Communicationw with git servers over SSH
 
-Follow the instructions in either [ssh](/apps/ssh.md) or your shell in [shells][/shells].
+Follow the instructions in either [ssh](/apps/ssh.md) or your shell in [shells](/shells).
 
 ## Signing Commits
 
